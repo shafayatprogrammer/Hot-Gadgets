@@ -23,3 +23,9 @@ body{
 .col-md-6 a{
     color: orange;
 }
+.card{
+    border-radius: 10px;
+}
+.mini-cat-box{
+    text-align: center;
+}
