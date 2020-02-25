@@ -2,5 +2,18 @@ body{
     font-family: 'Poppins';
 }
 .navbar-brand img{
-    width: 80%;
+    width: 75%;
+}
+.navbar{
+    margin-top: 20px;
+    
+}
+.container{
+    margin-bottom: 10px;
+}
+.btn-color{
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
 }
